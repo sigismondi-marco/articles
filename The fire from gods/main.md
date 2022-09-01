@@ -377,17 +377,7 @@ Furthermore, it allows for recursively refactoring the system design to keep it 
 
 Inspection of a system makes it appear as it really is: something alive; it reveals its real nature and the real form that the initial design finally has taken.
 
-## Appendix I. Semantic dilemma
-
-I tend to avoid the terms architect and architecture and I know that a lot of people would disagree but I have my reasons:
-1. In high school, I studied as a surveyor and one thing I know for sure: a mason could very hardly become an architect while a programmer could easily do
-1. architecture transmits to me the idea of something static while software has (or should have) the ability to evolve;
-1. it seems to me that architecture is being called into question when dealing with components that interact with each other but a lot of problems I face do not deal with that. Is defining the right log pattern an architectural choice? Is the plan for a cloud provider migration an architectural job? 
-
-P.S.: I love how Robert Martin (Uncle Bob) defines himself on Twitter: **Software craftsman**
-
-
-## Appendix II. Monitoring and observability are different things
+## Appendix. Monitoring and observability are different things
 
 DORA - DevOps Research and Assessment define monitoring and observability
 
