@@ -15,7 +15,7 @@ He could do nothing to help but anyway took the phone and called the isle to lea
 
 The sailor, in the meanwhile, continued to row hard until, according to his calculations, enough time had passed to be close to the island. After a while it was.
 
-Indeed he was able to see the isle but, he discovered with horror, the isle was a lot more on the left than it should be. Of course, there had to be a strong tide that was taking him away from his original route.
+Indeed he was able to see the isle but, he discovered with horror, it was a lot more on the left than it should be. Of course, there had to be a strong tide that was taking him away from his original route.
 
 He took the compass, shook his hands on the oars, adjusted the direction, and started rowing hard against the tide to come back on route.
 
@@ -27,7 +27,7 @@ This time he was able to follow the route and come back on time, less exhausted 
 
 The end.
 
-One last thing: curious to know what was the advice left by the older sailor? 
+One last thing: are you curious to know what advice is left by the older sailor?
 
 Here it is
 
