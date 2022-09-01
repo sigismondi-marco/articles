@@ -1,5 +1,5 @@
-# A story about sail
-_The importance of continuous testing (even when sailing)_
+# A little story of navigation
+_or the importance of continuous testing (even when sailing)_
 
 > _**TAGLINE**: often is better than more_
 
